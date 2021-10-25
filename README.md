@@ -1,6 +1,6 @@
 # Hello!! 👋 It's Akansha here! 😊👩‍🎓
-#### Currently invested in exploring UI/UX research and development!🌱
-#### Hobbies: 🤔💭💡📷🎳🎱👩‍🍳
+## Currently invested in exploring UI/UX research and development!🌱
+## Hobbies: 🤔💭💡📷🎳🎱👩‍🍳
 
 <!--
 **akanshasen/akanshasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
